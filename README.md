@@ -1,6 +1,6 @@
 # UNO Game
 
-* It is a simple UNO game built in java *
+*It is a simple UNO game built in java*
 
 * To play the game just run the main.java file 
 
